@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "YiWei Jiang (姜怡炜)"
 description              : "Postgraduate"
-repository               : "airplanecc.github.io.git"
+repository               : "airplanecc/airplanecc.github.io.git"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "YiWei Jiang"
-  avatar           : "images\jiangyw.png"
+  avatar           : "images/jiangyw.png"
   bio              : "Hohai University"
   location         : "Nanjing, China"
   employer         :
